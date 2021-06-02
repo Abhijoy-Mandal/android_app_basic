@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dell\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Dell\\Desktop\\AndroiApp\\helloWorld\\android_app_basic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\Dell\\AndroidStudioProjects\\HelloWorld\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "833"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1449"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\49a425eb020aa8d9cffc945a2839e23d\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -54,6 +35,25 @@
                         "startOffsets": "1454,1542,1666,1768,1870,1986,2088,2202,2330,2446,2568,2704,2824,2958,3078,3190,3405,3543,3667,3797,3919,4057,4173",
                         "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
                         "endOffsets": "1537,1661,1763,1865,1981,2083,2197,2325,2441,2563,2699,2819,2953,3073,3185,3311,3538,3662,3792,3914,4052,4168,4288"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dell\\Desktop\\AndroiApp\\helloWorld\\android_app_basic\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "833"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1449"
                     }
                 }
             ]

@@ -1648,6 +1648,7 @@ id test_checkbox_app_button_tint
 id text
 id text2
 id textEnd
+id textName
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
